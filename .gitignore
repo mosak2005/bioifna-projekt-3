@@ -3,3 +3,5 @@
 *.mcool
 *.cool
 *.gz
+.venv/
+data/

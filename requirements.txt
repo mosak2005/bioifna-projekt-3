@@ -1,0 +1,10 @@
+numpy
+matplotlib
+cooler
+scipy
+seaborn
+pandas
+requests
+biotite
+jupyter
+hic2cool
