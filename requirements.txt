@@ -3,8 +3,11 @@ matplotlib
 cooler
 scipy
 seaborn
-pandas
+pandas<3.0
 requests
 biotite
 jupyter
 hic2cool
+pybigtools
+pyliftover
+chromosight
